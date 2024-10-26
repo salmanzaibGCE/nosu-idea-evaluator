@@ -47,3 +47,7 @@ coverage.xml
 ## Ignore all log files in backend and frontend directories
 backend/*.log
 frontend/*.log
+
+# Ignore directories
+frontend/metaverse/
+backend/meta venv/
