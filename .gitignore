@@ -44,3 +44,6 @@ coverage.xml
 
 # Backup files
 *~
+## Ignore all log files in backend and frontend directories
+backend/*.log
+frontend/*.log
