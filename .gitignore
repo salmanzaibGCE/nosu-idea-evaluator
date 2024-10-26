@@ -1,0 +1,46 @@
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment
+.env
+*.env
+
+# Streamlit
+.streamlit/
+
+# Ignore the debug log file
+debug.log
+
+# Python virtual environment
+venv/
+env/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings and directories
+.vscode/
+*.code-workspace
+
+# MacOS system files
+.DS_Store
+
+# Log files
+*.log
+
+# Other IDE configurations (e.g., PyCharm)
+.idea/
+
+# Coverage reports
+.coverage
+coverage.xml
+*.cover
+*.py,cover
+
+# Backup files
+*~
